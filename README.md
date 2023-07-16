@@ -1,6 +1,6 @@
 # Hey, I’m saikul islam
 ## interested 
-in video games, football, animation video and learning something new 
+video games, football, animation Movie and learning something new 
 ## learning 
 currently learning web development at Programming Hero
 
