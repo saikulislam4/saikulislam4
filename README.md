@@ -15,8 +15,7 @@
 
 
 
-<h3 align="left">👩‍💻  About Me </h3> <br>
-  <br>
+<h3 align="left">👩‍💻  About Me </h3> 
 </h4>I'm a professional skilled in web design & 2D animation, I have a solid foundation in technical knowledge and a creative mindset. I'm passionate about creating websites and breathing life into characters and ideas through 2D animation. I'm dedicated to continuous growth, and staying up-to-date with industry trends.</h4>
 
 ###
