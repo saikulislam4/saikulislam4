@@ -12,8 +12,9 @@
 
 <p align="left">I'm Saikul Islam from Bangladesh<br><br>- 📚 I'm currently learning JavaScript & React Js</p>
 - 💬 Ask me about **JavaScript, React Js**
+
 - 📫 How to reach me **saikulislam505@gmail.com**
-###
+
 
 <h3 align="left">👩‍💻  About Me <br>I'm a professional skilled in web design & 2D animation, I have a solid foundation in technical knowledge and a creative mindset. I'm passionate about creating websites and breathing life into characters and ideas through 2D animation. I'm dedicated to continuous growth, and staying up-to-date with industry trends.</h3>
 
