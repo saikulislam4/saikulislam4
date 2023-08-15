@@ -20,5 +20,3 @@ Skills: HTML / CSS / Tailwind/ Bootstrap / JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saikulislam4&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=saikulislam4)  
-
-![Profile views](https://gpvc.arturio.dev/saikulislam4)  
