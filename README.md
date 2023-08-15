@@ -31,7 +31,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
   </a>
 </div>
-###
 
 ###
 
