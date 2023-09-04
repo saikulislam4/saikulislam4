@@ -70,19 +70,6 @@
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=saikulislam4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saikulislam4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="280" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saikulislam4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/saikulislam4/count.svg?"  />
 </div>
